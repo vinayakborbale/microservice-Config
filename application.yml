@@ -1,3 +1,6 @@
+spring:
+  application:
+     name: config-default-sarver
 eureka:
   client:
     serviceUrl:
